@@ -24,12 +24,12 @@
     <td width="50%" valign="top">
       <h3>🇺🇸 English</h3>
       <p>I hold a <b>BA, MA, and am a PhD Candidate in Political Science (UnB)</b>, also specializing in <b>Public Controllership, Economics, and Finance</b>.</p>
-      <p>My work sits at the intersection of Academia and Data Engineering. I focus on <b>Auditing, Fiscal Responsibility, and Economic Analysis</b>, building End-to-End ETL pipelines and Dashboards to transform complex government data (Official Gazettes, Parliamentary Votes, Budget) into actionable financial intelligence.</p>
+      <p>My academic research centers on <b>Elections, Political Institutions, and Legislative Power</b>. Professionally, I apply this background to <b>Auditing, Fiscal Responsibility, and Economic Analysis</b>, building End-to-End ETL pipelines and Dashboards to transform complex government data (Official Gazettes, Parliamentary Votes, Budget) into actionable financial intelligence.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🇧🇷 Português</h3>
       <p>Sou <b>Bacharel, Mestre e Doutorando em Ciência Política (UnB)</b>, além de Especialista em <b>Controladoria Pública, Economia e Finanças</b>.</p>
-      <p>Minha atuação une a Academia à Engenharia de Dados. Foco em <b>Auditoria, Responsabilidade Fiscal e Análise Econômica</b>, desenvolvendo pipelines de ETL e Dashboards para transformar dados governamentais complexos (DOU, Votações, Orçamento) em inteligência financeira acionável.</p>
+      <p>Minha pesquisa acadêmica concentra-se em <b>Eleições, Instituições Políticas e Poder Legislativo</b>. Profissionalmente, aplico esse conhecimento em <b>Auditoria, Responsabilidade Fiscal e Análise Econômica</b>, desenvolvendo pipelines de ETL e Dashboards para transformar dados governamentais complexos (DOU, Votações, Orçamento) em inteligência financeira acionável.</p>
     </td>
   </tr>
 </table>
@@ -61,10 +61,10 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      My doctoral research investigates how recent institutional changes—specifically the <b>mandatory budget amendments (Orçamento Impositivo)</b>, new rites for Provisional Measures (MPs), and shifts in patronage dynamics—have altered the "price" of parliamentary support. I use <b>Natural Language Processing (NLP)</b> and regression models to analyze the President's legislative success and the bureaucratic churn from 2003 to 2026.
+      My doctoral research investigates how recent institutional changes—specifically the <b>mandatory budget amendments (Orçamento Impositivo)</b>, new rites for Provisional Measures (MPs), and shifts in patronage dynamics—have altered the "price" of parliamentary support. I employ <b>multi-method approaches</b>, combining <b>Natural Language Processing (NLP)</b>, <b>Network Analysis</b>, and <b>statistical modeling</b> to analyze the President's legislative success from 2003 to 2026.
     </td>
     <td width="50%" valign="top">
-      Minha tese investiga como as recentes mudanças institucionais—especificamente o <b>Orçamento Impositivo</b>, os novos ritos das Medidas Provisórias (MPs) e as dinâmicas de patronagem—alteraram o "preço" do apoio parlamentar. Utilizo <b>Processamento de Linguagem Natural (PLN)</b> e modelos de regressão para analisar o sucesso legislativo do Presidente e a rotatividade burocrática de 2003 a 2026.
+      Minha tese investiga como as recentes mudanças institucionais—especificamente o <b>Orçamento Impositivo</b>, os novos ritos das Medidas Provisórias (MPs) e as dinâmicas de patronagem—alteraram o "preço" do apoio parlamentar. Emprego <b>abordagens multimétodos</b>, combinando <b>Processamento de Linguagem Natural (PLN)</b>, <b>Análise de Redes</b> e <b>modelagem estatística</b> para analisar o sucesso legislativo do Presidente de 2003 a 2026.
     </td>
   </tr>
 </table>
@@ -110,10 +110,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andeliton&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeliton&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andeliton&show_icons=true&theme=radical"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeliton&layout=compact&theme=radical"/>
 </div>
-
 ---
 <div align="center">
   <a href="https://www.linkedin.com/in/andeliton-soares-95a464337/" target="_blank">

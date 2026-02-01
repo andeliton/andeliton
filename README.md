@@ -24,12 +24,12 @@
     <td width="50%" valign="top">
       <h3>🇺🇸 English</h3>
       <p>I hold a <b>BA, MA, and am a PhD Candidate in Political Science (UnB)</b>, also specializing in <b>Public Controllership, Economics, and Finance</b>.</p>
-      <p>My academic research centers on <b>Elections, Political Institutions, and Legislative Power</b>. Professionally, I apply this background to <b>Auditing, Fiscal Responsibility, and Economic Analysis</b>, building End-to-End ETL pipelines and Dashboards to transform complex government data (Official Gazettes, Parliamentary Votes, Budget) into actionable financial intelligence.</p>
+      <p>My academic research centers on <b>Elections, Political Institutions, and Legislative Power</b>. Professionally, I apply this background to <b>Auditing, Fiscal Responsibility, and Economic Analysis</b>, building End-to-End ETL pipelines and Dashboards to transform complex government data (Official Gazettes, Parliamentary Votes, Budget) into actionable intelligence.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🇧🇷 Português</h3>
       <p>Sou <b>Bacharel, Mestre e Doutorando em Ciência Política (UnB)</b>, além de Especialista em <b>Controladoria Pública, Economia e Finanças</b>.</p>
-      <p>Minha pesquisa acadêmica concentra-se em <b>Eleições, Instituições Políticas e Poder Legislativo</b>. Profissionalmente, aplico esse conhecimento em <b>Auditoria, Responsabilidade Fiscal e Análise Econômica</b>, desenvolvendo pipelines de ETL e Dashboards para transformar dados governamentais complexos (DOU, Votações, Orçamento) em inteligência financeira acionável.</p>
+      <p>Minha pesquisa acadêmica concentra-se em <b>Eleições, Instituições Políticas e Poder Legislativo</b>. Profissionalmente, aplico esse conhecimento em <b>Auditoria, Responsabilidade Fiscal e Análise Econômica</b>, desenvolvendo pipelines de ETL e Dashboards para transformar dados governamentais complexos (DOU, Votações, Orçamento) em inteligência acionável.</p>
     </td>
   </tr>
 </table>
